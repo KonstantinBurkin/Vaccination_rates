@@ -12,5 +12,6 @@ C...
 ## Files
 - **Vaccination_rates.ipynb** - Main notebook
 - **Vaccination_rates_supplementary.ipynb** - Main n
+- **README.md** - Description of the project and repository.
 $$ $$
 $$Created\ by\ the\ end\ of\ December,\ 2021.$$
