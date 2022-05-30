@@ -1,4 +1,4 @@
-# World_vaccination_data_analysis
+# Vaccination rates
 This is my Data Analysis project for MSU course "Data analysis with Python".
 
 Link to the course is [here](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Python).
