@@ -1,14 +1,12 @@
 # Vaccination rates
 
 ## Introduction
-This is my Data Analysis project for MSU course "Data analysis with Python", Autumn semester 2021. 
-Link to the course is [here](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Python).
+Evaluation of successful vaccination programs is important to combat potential pandemics in the future. Here, the countries were determined where herd immunity against COVID-19 was achieved, hence making these vaccination programs efficient. For this the end-date was predicted when each country can finish making vaccinations by modeling vaccination dinamics with logistic regression.
 
 
-## Assignment
-Find a dataframe, statistically describe it, remove or fill in the missing values, visualise the patterns in data and make a prediction on the basis of the obtained data.  
+## Data
+Dataframe from Kaggle was used that described COVID-19 World Vaccination Progress. Data was collected across every country and in the continents in general. The population ratio for herd immunity against common viruses including SARS-Cov-2  was found online. 
 
-In this case, the dataframe describing COVID-19 World Vaccination Progress was chosen. After cleaning the data and visualising the rates of vaccinations in different countries and continents, the vaccinations data was fitted by non-linear regression and date was predicted when each country can achive herd immunity from COVID-19.
 
 The result of this project is a dataframe containing id the names of the countries and the predicted date when the population is fully vaccinated.
 
@@ -16,6 +14,3 @@ The result of this project is a dataframe containing id the names of the countri
 ## Files
 - **Vaccination_rates.ipynb** - Main notebook with description of the project, code, graphs, and commentaries.
 - **Vaccination_rates_supplementary.ipynb** - Additional code needed to convert the notebook to html.
-- **README.md** - Description of the project and repository.
-$$ $$
-$$Created\ by\ the\ end\ of\ December,\ 2021.$$
