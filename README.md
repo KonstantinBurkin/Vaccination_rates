@@ -18,7 +18,7 @@ The result of this project is a dataframe containing id the names of the countri
 
 - The vaccination rates were examined, cleaned and plotted for each country and continent.
 - The vaccination rates were extrapolated. 
-    - This regression fitted the data from 199 countries with \(R^2 > 0.9\). 
+    - This regression fitted the data from 199 countries with $R^2 > 0.9$. 
     - Other counties were not analyzed due to lack of data.
 - Out of these 199 countries only 38 showed accomplishment of reaching the status of 75% immunized population, which is the lowest threshold for herd immunity for alpha variant of COVID-19.
 - Other countries cannot surpass the threshold of herd immunity.
