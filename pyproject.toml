@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "vaccination-programs"
+version = "0.1.0"
+description = ""
+authors = ["Konstantin Burkin <konstantin.burkin.m@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.3"
+matplotlib = "^3.10.1"
+scikit-learn = "^1.6.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
