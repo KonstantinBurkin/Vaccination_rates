@@ -13,4 +13,3 @@ The result of this project is a dataframe containing id the names of the countri
 
 ## Files
 - **Vaccination_rates.ipynb** - Main notebook with description of the project, code, graphs, and commentaries.
-- **Vaccination_rates_supplementary.ipynb** - Additional code needed to convert the notebook to html.
