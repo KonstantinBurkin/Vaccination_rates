@@ -1,4 +1,7 @@
 # Vaccination programs
+<div>
+<img src="./data/intro.png" width="300"/>
+</div>
 
 ## Introduction
 Evaluation of successful vaccination programs is important to combat potential pandemics in the future. Here, the countries were determined where herd immunity against COVID-19 was achieved, hence making these vaccination programs efficient. For this the end-date was predicted when each country can finish making vaccinations by modeling vaccination dinamics with logistic regression.
