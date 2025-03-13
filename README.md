@@ -24,7 +24,7 @@ The result of this project is a dataframe containing id the names of the countri
 - The vaccination rates were examined, cleaned and plotted for each country and continent.
 - The vaccination trends were obtained. 
     - Two approaches were implemented: sigmoid-like curve fitting and ARIMA.
-    - Sigmoid-like curve fitting perfectly explained the historical trend, however was "" for trend prediction
+    - Sigmoid-like curve fitting perfectly explained the historical trend, however was unsuitable for trend prediction
     - ARIMA was perfect for recent data trend extrapolation, however it was impossible to model saturation and trend was linear.
     - Other counties were not analyzed due to lack of data.
 
@@ -32,7 +32,7 @@ The result of this project is a dataframe containing id the names of the countri
 - Other countries cannot surpass the threshold of herd immunity.
 
 ## Example 
-Plot of Brazil trend. The model predicts that Brazil will reach heard immunity by 2022-08-24.
+Plot of Brazil trend. The model predicts that Brazil will reach herd immunity by 2022-08-24.
 <div>
 <img src="./data/brazil.png" width="500"/>
 </div>
